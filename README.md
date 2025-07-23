@@ -1,4 +1,4 @@
-````
+
 # Fraud Detection Pipeline Project
 
 This project demonstrates a streaming data pipeline using Apache Beam and Google Cloud Platform components like Pub/Sub and Cloud Storage. The pipeline reads simulated transaction data from Pub/Sub, processes it, and writes outputs to Cloud Storage.
